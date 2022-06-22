@@ -26,6 +26,10 @@ ul {
   list-style: none;
 }
 
+li {
+  line-height: 2.5rem;
+}
+
 /* pork-belly styles ------------------------------ */
 
 .pork-belly {
