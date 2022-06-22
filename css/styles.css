@@ -38,6 +38,9 @@ li {
   line-height: 2.5rem;
 }
 
+ol li {
+  padding: 1rem;
+}
 /* pork-belly styles ------------------------------ */
 
 .pork-belly {
